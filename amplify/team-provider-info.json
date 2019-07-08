@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "t2t-dev-20190705143831-authRole",
+            "UnauthRoleArn": "arn:aws:iam::292002577318:role/t2t-dev-20190705143831-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::292002577318:role/t2t-dev-20190705143831-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "t2t-dev-20190705143831-deployment",
+            "UnauthRoleName": "t2t-dev-20190705143831-unauthRole",
+            "StackName": "t2t-dev-20190705143831",
+            "StackId": "arn:aws:cloudformation:us-east-1:292002577318:stack/t2t-dev-20190705143831/3bd3aad0-9f6d-11e9-8312-0a6fb8e9c8ee"
+        }
+    },
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "t2t-env-20190705171737-authRole",
+            "UnauthRoleArn": "arn:aws:iam::292002577318:role/t2t-env-20190705171737-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::292002577318:role/t2t-env-20190705171737-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "t2t-env-20190705171737-deployment",
+            "UnauthRoleName": "t2t-env-20190705171737-unauthRole",
+            "StackName": "t2t-env-20190705171737",
+            "StackId": "arn:aws:cloudformation:us-east-1:292002577318:stack/t2t-env-20190705171737/75d92cd0-9f83-11e9-aaf5-0a437bda7b86"
+        }
+    }
+}

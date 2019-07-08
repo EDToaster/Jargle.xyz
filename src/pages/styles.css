@@ -1,0 +1,14 @@
+.column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.column > * {
+    margin: 10px;
+}
+
+.slider {
+    width: 100%;
+}
